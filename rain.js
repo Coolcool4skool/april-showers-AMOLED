@@ -92,7 +92,7 @@ class Raindrop {
 
 let raining = null
 let rainAmount = 100
-let rainSpeed = 4
+let rainSpeed = 5
 let toolsHidden = false
 
 const rain = (amount) => {
